@@ -1,4 +1,4 @@
-2"""
+"""
 Khanh Vu
 U56604117
 Intersecting Points (with classes) program
