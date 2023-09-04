@@ -1,6 +1,5 @@
 """
 Khanh Vu
-U56604117
 The program determines if a fraction is Proper Fraction, Improper Fraction or Mixed Fraction
 """
 import math
